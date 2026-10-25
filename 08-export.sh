@@ -2,4 +2,4 @@
 
 echo "$COURSE"
 
-echo "TIME"
+echo "$TIME"
